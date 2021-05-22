@@ -1,3 +1,3 @@
-# Game-JAM
+# Call of Dimension
 
-Dossiers pour Game JAM
+Jeu vidéo à la première personne type FPS basé sur Core
